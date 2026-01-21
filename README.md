@@ -1,1 +1,1 @@
-Simple y sencillo ponpendiente de librerias 
+Simple y sencillo con pendiente de subir el env de las librerias 
